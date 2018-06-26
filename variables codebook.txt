@@ -1,0 +1,11 @@
+The data in the step5.txt is the following:
+
+subject: subject id
+activityDesc: activity description
+
+Other variables
+variables beginning with "time" contain time measurements
+variables beginning with "freq" contain frequency measurements
+
+variables that contain "mean" contain the averages for the given subject and activity
+variables that contain "std" contain the standard deviation for the given subject and activity
